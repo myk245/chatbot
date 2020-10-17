@@ -65,7 +65,7 @@ controller.ready(() => {
 });
 
 controller.on('hello', bot => {
-    bot.say('Hello! Chatbot - Cindy here.I am currently looking for work and open to opportunities.Ask me a question to learn more about me and my background.')
+    bot.say('Hello! Chatbot-Cindy here.I am currently looking for work and open to opportunities.Ask me a question to learn more about me and my background.')
 }); 
 
 controller.on('message', async (bot, message) => {
