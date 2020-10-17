@@ -188,13 +188,14 @@ var Botkit = {
         // Connection opened
         that.socket.addEventListener('open', function (event) {
             console.log('CONNECTED TO SOCKET');
+            console.log('Hello! Chatbot-Cindy here. I am currently looking for work and open to opportunities. Ask me a question to learn more about me and my background.'); 
             that.reconnect_count = 0;
             that.trigger('connected', event);
             that.deliverMessage({
                 type: connectEvent,
                 user: that.guid,
                 channel: 'socket',
-                user_profile: that.current_user ? that.current_user : null,
+                user_profile: that.current_user ? that.current_user : null
             });
         });
 
