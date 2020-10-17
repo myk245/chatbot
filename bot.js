@@ -64,6 +64,15 @@ controller.ready(() => {
 
 });
 
+controller.on('message', async (bot, message) => {
+    await bot.reply(message, 'I heard a message!');
+});
+
+// listen for a message containing the word "hello", and send a reply
+controller.hears('hello', 'message', async (bot, message) => {
+    // do something!
+    await bot.reply(message, 'Hello there! What can I help you with today?')
+});
 
 
 
