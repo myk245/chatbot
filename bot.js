@@ -75,7 +75,7 @@ controller.on('message', async (bot, message) => {
 // listen for a message containing the word "hello", and send a reply
 controller.hears('hello', 'message', async (bot, message) => {
     // do something!
-    await bot.reply(message, 'Hello there! What can I help you with today?')
+    await bot.reply(message, "Hello there, I'm Chatbot-Cindy! What can I help you with today?")
 });
 
 
