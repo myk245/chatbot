@@ -4,19 +4,24 @@ const resume = {
       "title": "Software Engineer",
       "email": "myk245@nyu.edu",
       "website": "http://www.cindykei.com",
-      "summary": "A summary of John Doe...",
+      "summary": "I am a Fullstack Software Engineer based in NYC who is passionate about creating social change and making a difference through innovative, powerful technologies. I have a proven track record in driving sales and delivering results. I am looking forward to joining an innovative, energetic company where I can utilize my strong problem solving, communication, and collaboration skills in order to help create thoughtful, intelligent solutions that make an impact on people's lives. I am inspired by clean, well-designed, and intuitive applications.",
       "location": {
-         "address": "2712 Broadway St",
-         "postalCode": "CA 94115",
-         "city": "San Francisco",
-         "countryCode": "US",
-         "region": "California"
+         "city": "New York",
+         "state": "New York", 
+         "country": "US"
       },
       "profiles": [
          {
-            "network": "Twitter",
-            "username": "john",
-            "url": "http://twitter.com/john"
+            "network": "LinkedIn",
+            "url": "https://www.linkedin.com/in/cindy-kei/"
+         }, 
+         {
+            "network": "GitHub",
+            "url": "https://github.com/myk245"
+         }, 
+         {
+            "network": "Twitter", 
+            "url": "https://twitter.com/KeiCindy"
          }
       ]
    },
@@ -48,15 +53,20 @@ const resume = {
    ],
    "education": [
       {
-         "institution": "University",
-         "area": "Software Development",
-         "studyType": "Bachelor",
-         "startDate": "2011-01-01",
-         "endDate": "2013-01-01",
-         "gpa": "4.0",
-         "courses": [
-            "DB1101 - Basic SQL"
-         ]
+         "institution": "Flatiron School",
+         "major": "Fullstack Software Engineering", 
+         "degree": "Certificate",
+         "startDate": "01-2020",
+         "endDate": "05-2020"
+      }, 
+      {
+         "institution": "New York University",
+         "major": "Linguistic Anthropology",
+         "minor": "Communicative Sciences and Disorders",
+         "degree": "Bachelor of Arts",
+         "startDate": "08-2010",
+         "endDate": "05-2014",
+         "gpa": "3.9"
       }
    ],
    "awards": [
@@ -65,15 +75,6 @@ const resume = {
          "date": "2014-11-01",
          "awarder": "Company",
          "summary": "There is no spoon."
-      }
-   ],
-   "publications": [
-      {
-         "name": "Publication",
-         "publisher": "Company",
-         "releaseDate": "2014-10-01",
-         "website": "http://publication.com",
-         "summary": "Description..."
       }
    ],
    "skills": [
@@ -100,12 +101,6 @@ const resume = {
             "Ferrets",
             "Unicorns"
          ]
-      }
-   ],
-   "references": [
-      {
-         "name": "Jane Doe",
-         "reference": "Reference..."
       }
    ]
 }
