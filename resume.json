@@ -27,27 +27,13 @@ const resume = {
    },
    "work": [
       {
-         "company": "Company",
-         "position": "President",
-         "website": "http://company.com",
-         "startDate": "2013-01-01",
-         "endDate": "2014-01-01",
-         "summary": "Description...",
+         "company": "Simon & Schuster",
+         "position": "Subsidiary Rights Associate",
+         "startDate": "04-2017",
+         "endDate": "12-2019",
+         "summary": "Collaborated with the VP and Director of Subsidiary Rights to sell foreign and domestic/serial rights to S&S titles. Independently crafted and pitched serial excerpts to targeted magazines, newspapers, and online outlets. Worked with the editorial, marketing, publicity, ad/promo, art, and production teams as well as with literary agents, co-agents, and foreign publishers.",
          "highlights": [
-            "Started the company"
-         ]
-      }
-   ],
-   "volunteer": [
-      {
-         "organization": "Organization",
-         "position": "Volunteer",
-         "website": "http://organization.com/",
-         "startDate": "2012-01-01",
-         "endDate": "2013-01-01",
-         "summary": "Description...",
-         "highlights": [
-            "Awarded 'Volunteer of the Month'"
+            "Contributed over $12,000/year in serial sales."
          ]
       }
    ],
