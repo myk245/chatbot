@@ -31,10 +31,14 @@ const resume = {
          "position": "Subsidiary Rights Associate",
          "startDate": "04-2017",
          "endDate": "12-2019",
-         "summary": "Collaborated with the VP and Director of Subsidiary Rights to sell foreign and domestic/serial rights to S&S titles. Independently crafted and pitched serial excerpts to targeted magazines, newspapers, and online outlets. Worked with the editorial, marketing, publicity, ad/promo, art, and production teams as well as with literary agents, co-agents, and foreign publishers.",
-         "highlights": [
-            "Contributed over $12,000/year in serial sales."
-         ]
+         "summary": "Collaborated with the VP and Director of Subsidiary Rights to sell foreign and domestic/serial rights to S&S titles. Independently crafted and pitched serial excerpts to targeted magazines, newspapers, and online outlets. Worked with the editorial, marketing, publicity, ad/promo, art, and production teams as well as with literary agents, co-agents, and foreign publishers. Contributed over $12,000/year in serial sales."
+      }, 
+      {
+            "company": "Bergdorf Goodman",
+            "position": "Merchandising Assistant",
+            "startDate": "10-2016",
+            "endDate": "04-2017",
+            "summary": "Keyed purchase orders and coded merchandise attributes into system. Ensured all items were UPC matched accurately. Allocated distribution and coordinated RTVs and transfers."
       }
    ],
    "education": [
